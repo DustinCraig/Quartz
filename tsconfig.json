@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "noImplicitAny": false,
+      "noEmitOnError": true,
+      "removeComments": true,
+      "sourceMap": false,
+      "target": "es5",
+      "outDir": "dist",
+      "lib": ["ES2016", "DOM"]
+    },
+    "include": [
+      "src/**/*"
+    ]
+  }
